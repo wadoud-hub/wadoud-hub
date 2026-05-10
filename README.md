@@ -26,7 +26,8 @@
 <body>
     <!-- رأس الصفحة مع الشعار -->
     <header>
-        <img src="شعارك.png" alt="Wadoud Hub Logo">
+        <img src="logo.png" alt="<img width="464" height="464" alt="1778390838425(1)" src="https://github.com/user-attachments/assets/441254e9-d2f7-40b4-ae91-fa10da39eecd" />
+">
         <h1 onclick="showPage('home')">Wadoud Hub</h1>
     </header>
 
